@@ -25,16 +25,23 @@ jobs:
         R -e 'install.packages("lubridate")'
     # Run R script
     - name: Script Viagens
-      run: Rscript viagens.R   
+      run: Rscript viagens.R       
+    
+# https://stackoverflow.com/questions/69198886/commit-only-when-file-exists
+    - name: "Check file existence"
+      id: check_files
+      uses: andstor/file-existence-action@v1
+      with:
+        files: "IFS.rds"
       
-      
-    - name: Commit results
+    - name: Commit files
+      if: steps.check_files.outputs.files_exists == 'true'
       run: |
-          git config --local user.name "$GITHUB_ACTOR"
-          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com"
-          git add IFS.rds
-          git commit -F mensagem-comit.txt || echo "No changes to commit"
-          git push origin || echo "No changes to commit"
+         git config --local user.name actions-user
+         git config --local user.email "actions@github.com"
+         git add *
+         git commit -am "GH ACTION Headlines $(date)"
+         git push origin main -f
         
       env:
         REPO_KEY: ${{secrets.GITHUB_TOKEN}}

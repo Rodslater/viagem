@@ -25,17 +25,9 @@ jobs:
         R -e 'install.packages("lubridate")'
     # Run R script
     - name: Script Viagens
-      run: Rscript viagens.R
-      
-# https://stackoverflow.com/questions/69198886/commit-only-when-file-exists
-    - name: "Check file existence"
-      id: check_files
-      uses: andstor/file-existence-action@v1
-      with:
-        files: "IFS.rds"
+      run: Rscript viagens.R   
       
     - name: Commit files
-      if: steps.check_files.outputs.files_exists == 'true'
       run: |
          git config --local user.name actions-user
          git config --local user.email "actions@github.com"

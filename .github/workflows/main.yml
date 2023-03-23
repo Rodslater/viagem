@@ -27,11 +27,19 @@ jobs:
     - name: Script Viagens
       run: Rscript viagens.R   
       
+# https://stackoverflow.com/questions/69198886/commit-only-when-file-exists
+    - name: "Check file existence"
+      id: check_files
+      uses: thebinaryfelix/check-file-existence-action@v1
+      with:
+        files: "data/IFS.rds"
+      
     - name: Commit files
+      if: steps.check_files.outputs.files_exists == 'true'
       run: |
          git config --local user.name actions-user
          git config --local user.email "actions@github.com"
-         git add *
+         git add data/*
          git commit -am "GH ACTION Headlines $(date)"
          git push origin main -f
         

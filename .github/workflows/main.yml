@@ -30,7 +30,7 @@ jobs:
 # https://stackoverflow.com/questions/69198886/commit-only-when-file-exists
     - name: "Check file existence"
       id: check_files
-      uses: thebinaryfelix/check-file-existence-action@v1
+      uses: andstor/file-existence-action@v1
       with:
         files: "IFS.rds"
       

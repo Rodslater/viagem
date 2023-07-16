@@ -2,7 +2,6 @@ library(dplyr)
 library(downloader)
 library(lubridate)
 
-memory.limit(24576)
 
 url <- "https://portaldatransparencia.gov.br/download-de-dados/viagens/2023"
 download(url, dest="dataset.zip", mode="wb") 

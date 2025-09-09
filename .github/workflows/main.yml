@@ -1,6 +1,6 @@
 on:
   schedule:
-    - cron:  "0 */12 * * *"
+    - cron: "0 */12 * * *"
   workflow_dispatch:
 
 name: 01-rscript
@@ -10,14 +10,37 @@ jobs:
     runs-on: ubuntu-latest
     env:
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+      R_KEEP_PKG_SOURCE: yes
+    
     steps:
-      - uses: actions/checkout@v3
-      - uses: r-lib/actions/setup-r@v2
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          
+      - name: Setup R
+        uses: r-lib/actions/setup-r@v2
         with:
           use-public-rspm: true
+          
+      - name: Query dependencies
+        run: |
+          install.packages('remotes')
+          saveRDS(remotes::dev_package_deps(dependencies = TRUE), ".github/depends.Rds", version = 2)
+          writeLines(sprintf("R-%i.%i", getRversion()$major, getRversion()$minor), ".github/R-version")
+        shell: Rscript {0}
 
-      - uses: r-lib/actions/setup-r-dependencies@v2
+      - name: Cache R packages
+        uses: actions/cache@v3
         with:
+          path: ${{ env.R_LIBS_USER }}
+          key: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-${{ hashFiles('.github/depends.Rds') }}
+          restore-keys: ${{ runner.os }}-${{ hashFiles('.github/R-version') }}-1-
+          
+      - name: Install dependencies
+        uses: r-lib/actions/setup-r-dependencies@v2
+        with:
+          cache-version: 2
           packages: |
             any::dplyr
             any::lubridate
@@ -27,12 +50,22 @@ jobs:
             any::jsonlite
             
       - name: Execute Script
+        run: Rscript "script.R"
+        
+      - name: Check for changes
+        id: verify-changed-files
         run: |
-          Rscript "script.R"
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changed=true" >> $GITHUB_OUTPUT
+          else
+            echo "changed=false" >> $GITHUB_OUTPUT
+          fi
+          
       - name: Commit results
+        if: steps.verify-changed-files.outputs.changed == 'true'
         run: |
           git config --local user.email "actions@github.com"
           git config --local user.name "GitHub Actions"
           git add .
-          git commit -m "Results from R script" || echo "No changes to commit"
-          git push origin || echo "No changes to commit"-
+          git commit -m "Results from R script [$(date +'%Y-%m-%d %H:%M:%S')]"
+          git push origin

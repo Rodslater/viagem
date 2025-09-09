@@ -25,6 +25,7 @@ jobs:
             any::downloader
             any::data.table
             any::jsonlite
+            any::httr
             
       - name: Execute Script
         run: |

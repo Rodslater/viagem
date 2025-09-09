@@ -105,4 +105,4 @@ if(length(arquivos_temp) > 0) {
   file.remove(arquivos_temp)
 }
 
-write_json(IFS_completo, "data/IFS_viagens.json", pretty = TRUE, auto_unbox = TRUE)
+write_json(IFS_completo, "IFS_viagens.json", pretty = TRUE, auto_unbox = TRUE)

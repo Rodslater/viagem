@@ -4,6 +4,7 @@ library(downloader)
 library(lubridate)
 library(data.table)
 library(jsonlite)
+library(httr)  # Adiciona httr para webhook
 
 # Função para baixar e processar dados de um ano específico
 baixar_processar_ano <- function(ano) {
@@ -94,9 +95,88 @@ if(length(lista_dataframes) > 0) {
   cat("\nPrimeiras linhas do dataset completo:\n")
   print(head(IFS_completo))
   
+  # Salva o arquivo JSON
+  write_json(IFS_completo, "IFS_viagens.json", pretty = TRUE, auto_unbox = TRUE)
+  
+  # WEBHOOK - Enviar notificação para n8n
+  webhook_url <- "https://n8n.rodslater.com/webhook/ifs_viagens"
+  
+  payload <- list(
+    status = "success",
+    timestamp = format(Sys.time(), "%Y-%m-%d %H:%M:%S"),
+    message = "Dados de viagens IFS atualizados com sucesso",
+    total_viagens = nrow(IFS_completo),
+    anos_processados = unique(IFS_completo$ano),
+    periodo_inicio = as.character(min(IFS_completo$inicio, na.rm = TRUE)),
+    periodo_fim = as.character(max(IFS_completo$fim, na.rm = TRUE)),
+    viagens_por_ano = resumo_por_ano,
+    arquivo_atualizado = "IFS_viagens.json"
+  )
+  
+  tryCatch({
+    cat("Ativando webhook n8n...\n")
+    
+    response <- POST(
+      url = webhook_url,
+      body = payload,
+      encode = "json",
+      add_headers("Content-Type" = "application/json"),
+      timeout(30)
+    )
+    
+    if (status_code(response) == 200) {
+      cat("✅ Webhook n8n ativado com sucesso!\n")
+      cat("Response:", content(response, "text"), "\n")
+    } else {
+      cat("❌ Erro ao ativar webhook. Status code:", status_code(response), "\n")
+      cat("Response:", content(response, "text"), "\n")
+    }
+    
+  }, error = function(e) {
+    cat("❌ Erro ao chamar webhook:", e$message, "\n")
+    
+    tryCatch({
+      cat("Tentando webhook simples (GET)...\n")
+      response_get <- GET(webhook_url, timeout(30))
+      if (status_code(response_get) == 200) {
+        cat("✅ Webhook ativado com GET!\n")
+      }
+    }, error = function(e2) {
+      cat("❌ Falha total ao ativar webhook:", e2$message, "\n")
+    })
+  })
+  
 } else {
   cat("Nenhum dado foi processado com sucesso.\n")
   IFS_completo <- NULL
+  
+  # WEBHOOK para caso de erro
+  webhook_url <- "https://n8n.rodslater.com/webhook/ifs_viagens"
+  
+  payload_erro <- list(
+    status = "error",
+    timestamp = format(Sys.time(), "%Y-%m-%d %H:%M:%S"),
+    message = "Falha no processamento dos dados de viagens IFS",
+    total_viagens = 0,
+    anos_tentados = anos,
+    erro = "Nenhum arquivo foi processado com sucesso"
+  )
+  
+  tryCatch({
+    response <- POST(
+      url = webhook_url,
+      body = payload_erro,
+      encode = "json",
+      add_headers("Content-Type" = "application/json"),
+      timeout(30)
+    )
+    
+    if (status_code(response) == 200) {
+      cat("✅ Webhook de erro enviado com sucesso!\n")
+    }
+  }, error = function(e) {
+    cat("❌ Erro ao enviar webhook de erro:", e$message, "\n")
+  })
 }
 
 # Limpeza final - remove qualquer arquivo temporário restante
@@ -105,4 +185,4 @@ if(length(arquivos_temp) > 0) {
   file.remove(arquivos_temp)
 }
 
-write_json(IFS_completo, "IFS_viagens.json", pretty = TRUE, auto_unbox = TRUE)
+cat("Processamento concluído!\n")

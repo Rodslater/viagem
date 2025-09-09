@@ -64,9 +64,9 @@ baixar_processar_ano <- function(ano) {
   })
 }
 
-# Anos para processar (ano atual e 3 anteriores)
+# Anos para processar (ano atual e 4 anteriores)
 ano_atual <- year(Sys.Date())
-anos <- (ano_atual - 3):ano_atual
+anos <- (ano_atual - 4):ano_atual
 
 cat("Baixando dados de viagens do IFS para os anos:", paste(anos, collapse = ", "), "\n\n")
 

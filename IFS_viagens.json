@@ -38193,6 +38193,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JARBAS CORDEIRO SAMPAIO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-13",
+    "fim": "2025-10-16",
+    "destino": "Barra do Piraí/RJ",
+    "valor_diaria": 1034.42,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
+  },
+  {
+    "ano": 2025,
     "nome": "RUTH SALES GAMA DE ANDRADE",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-08-25",
@@ -38842,6 +38853,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JACSON DA CRUZ NASCIMENTO",
+    "cargo": "",
+    "inicio": "2025-09-09",
+    "fim": "2025-09-09",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 118.48,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "JOSE OSMAN DOS SANTOS",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-09-11",
@@ -38963,12 +38985,67 @@
   },
   {
     "ano": 2025,
+    "nome": "JOCELMO RODRIGUES PEREIRA",
+    "cargo": "VIGILANTE",
+    "inicio": "2025-09-27",
+    "fim": "2025-10-06",
+    "destino": "São Luís/MA",
+    "valor_diaria": 3337.3,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "ANDRE LUIZ DE MELO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-09-27",
+    "fim": "2025-10-06",
+    "destino": "São Luís/MA",
+    "valor_diaria": 3337.3,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "ALEX ALVES BUENO",
     "cargo": "ASSISTENTE EM ADMINISTRAçãO",
     "inicio": "2025-09-22",
     "fim": "2025-09-22",
     "destino": "Aracaju/SE",
     "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JOSE ADILSON GONCALVES LIMA",
+    "cargo": "MOTORISTA",
+    "inicio": "2025-08-12",
+    "fim": "2025-08-12",
+    "destino": "Lagarto/SE",
+    "valor_diaria": 116.11,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JOSE ADILSON GONCALVES LIMA",
+    "cargo": "MOTORISTA",
+    "inicio": "2025-08-13",
+    "fim": "2025-08-13",
+    "destino": "Lagarto/SE",
+    "valor_diaria": 116.11,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAMESON GOUVEIA DE NOVAIS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-09-23",
+    "fim": "2025-09-24",
+    "destino": "Piranhas/AL",
+    "valor_diaria": 411.6,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39024,6 +39101,17 @@
     "fim": "2025-10-07",
     "destino": "Aracaju/SE",
     "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARCOS ANTONIO RODRIGUES FRANCA",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-09-27",
+    "fim": "2025-10-06",
+    "destino": "São Luís/MA",
+    "valor_diaria": 3337.3,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39299,6 +39387,28 @@
     "fim": "2025-10-09",
     "destino": "Estância/SE",
     "valor_diaria": 182.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "DANILLO SIQUEIRA RAMOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-10-07",
+    "fim": "2025-10-07",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 114.65,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "SANDRA HELENA GONCALVES COSTA",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-08",
+    "fim": "2025-10-11",
+    "destino": "Três Lagoas/MS",
+    "valor_diaria": 1131.15,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },

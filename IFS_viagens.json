@@ -33089,6 +33089,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-03-14",
+    "fim": "2025-03-14",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
+  },
+  {
+    "ano": 2025,
     "nome": "DAYANE DE OLIVEIRA BARBOSA",
     "cargo": "ASSISTENTE DE ALUNO",
     "inicio": "2025-03-14",
@@ -34107,6 +34118,17 @@
     "fim": "2025-04-07",
     "destino": "Aracaju/SE",
     "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-04-07",
+    "fim": "2025-04-07",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -37049,6 +37071,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-07-04",
+    "fim": "2025-07-04",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "LUCIANO DE MELO SANTOS",
     "cargo": "ASSISTENTE EM ADMINISTRAçãO",
     "inicio": "2025-07-07",
@@ -38248,6 +38281,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-08-22",
+    "fim": "2025-08-22",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "LUCIANO DE MELO SANTOS",
     "cargo": "ASSISTENTE EM ADMINISTRAçãO",
     "inicio": "2025-08-22",
@@ -38454,6 +38498,17 @@
     "valor_diaria": 182.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "NARA DE CARVALHO E SILVA",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-11-03",
+    "fim": "2025-11-07",
+    "destino": "Brasília/DF",
+    "valor_diaria": 1780.25,
+    "valor_passagem": 1387.5,
+    "urgencia": "NÃO"
   },
   {
     "ano": 2025,
@@ -39029,6 +39084,17 @@
   },
   {
     "ano": 2025,
+    "nome": "LENIO EDBERG FREITAS BEZERRA DA SILVA",
+    "cargo": "TECNICO DE TECNOLOGIA DA INFORMACAO",
+    "inicio": "2025-11-04",
+    "fim": "2025-11-08",
+    "destino": "Natal/RN",
+    "valor_diaria": 1623.2,
+    "valor_passagem": 3326.34,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "SUZANA MICHELE SANTOS FONSECA",
     "cargo": "",
     "inicio": "2025-09-25",
@@ -39233,6 +39299,17 @@
     "fim": "2025-09-19",
     "destino": "Itabaiana/SE, Aracaju/SE, Itabaiana/SE",
     "valor_diaria": 116.11,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-09-22",
+    "fim": "2025-09-22",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39480,6 +39557,17 @@
   },
   {
     "ano": 2025,
+    "nome": "FELIPPE ROCHA PRESADO MENEZES DE BARROS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-09-29",
+    "fim": "2025-09-29",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MARCIO ROBERTO DE ANDRADE",
     "cargo": "",
     "inicio": "2025-09-29",
@@ -39519,6 +39607,17 @@
     "fim": "2025-09-29",
     "destino": "Aracaju/SE",
     "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-02",
+    "fim": "2025-10-02",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39810,6 +39909,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-21",
+    "fim": "2025-10-21",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "FELIPE MATHEUS DE OLIVEIRA CARVALHO",
     "cargo": "ENGENHEIRO-AREA",
     "inicio": "2025-10-20",
@@ -39821,6 +39931,28 @@
   },
   {
     "ano": 2025,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2025-11-06",
+    "fim": "2025-11-06",
+    "destino": "Areia Branca/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
+  },
+  {
+    "ano": 2025,
+    "nome": "SUZANA MICHELE SANTOS FONSECA",
+    "cargo": "",
+    "inicio": "2025-11-06",
+    "fim": "2025-11-06",
+    "destino": "Areia Branca/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
+  },
+  {
+    "ano": 2025,
     "nome": "SUZANA MICHELE SANTOS FONSECA",
     "cargo": "",
     "inicio": "2025-10-21",
@@ -39829,6 +39961,17 @@
     "valor_diaria": 190,
     "valor_passagem": 0,
     "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARIANA EMANUELLE BARRETO DE GOIS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-06",
+    "fim": "2025-11-06",
+    "destino": "Areia Branca/SE",
+    "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
   },
   {
     "ano": 2025,
@@ -39887,6 +40030,17 @@
   },
   {
     "ano": 2025,
+    "nome": "MAYRA BORGES LEMOS",
+    "cargo": "ODONTOLOGO",
+    "inicio": "2025-10-29",
+    "fim": "2025-10-29",
+    "destino": "Itabaiana/SE",
+    "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MARIANA EMANUELLE BARRETO DE GOIS",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-10-21",
@@ -39925,6 +40079,105 @@
     "inicio": "2025-10-23",
     "fim": "2025-10-23",
     "destino": "São Domingos/SE",
+    "valor_diaria": 182.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARCIO ROBERTO DE ANDRADE",
+    "cargo": "",
+    "inicio": "2025-10-29",
+    "fim": "2025-10-29",
+    "destino": "Propriá/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "IVAN CARLOS DE SOUZA",
+    "cargo": "AUDITOR",
+    "inicio": "2025-10-29",
+    "fim": "2025-10-29",
+    "destino": "Tobias Barreto/SE",
+    "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "SUZANA MICHELE SANTOS FONSECA",
+    "cargo": "",
+    "inicio": "2025-11-07",
+    "fim": "2025-11-07",
+    "destino": "Barra dos Coqueiros/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "ALYSSON SANTOS BARRETO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-06",
+    "fim": "2025-11-06",
+    "destino": "Tobias Barreto/SE",
+    "valor_diaria": 182.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2025-10-23",
+    "fim": "2025-10-23",
+    "destino": "São Domingos/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARIANA EMANUELLE BARRETO DE GOIS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-07",
+    "fim": "2025-11-07",
+    "destino": "Barra dos Coqueiros/SE",
+    "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "ANDERSON RIBEIRO DOS SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-11-06",
+    "fim": "2025-11-06",
+    "destino": "Tobias Barreto/SE",
+    "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARCUS ALEXANDRE NORONHA DE BRITO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-06",
+    "fim": "2025-11-06",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 182.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARCUS ALEXANDRE NORONHA DE BRITO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-07",
+    "fim": "2025-11-07",
+    "destino": "Estância/SE",
     "valor_diaria": 182.05,
     "valor_passagem": 0,
     "urgencia": "SIM"

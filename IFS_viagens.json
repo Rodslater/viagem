@@ -35366,6 +35366,17 @@
   },
   {
     "ano": 2025,
+    "nome": "MANOELA FALCON GALLOTTI",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-05-08",
+    "fim": "2025-05-08",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "CLEBERTON CARVALHO SOARES",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-05-07",
@@ -38468,6 +38479,17 @@
   },
   {
     "ano": 2025,
+    "nome": "MANOELA FALCON GALLOTTI",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-08-26",
+    "fim": "2025-08-26",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "ALYSSON SANTOS BARRETO",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-08-21",
@@ -40118,6 +40140,17 @@
   },
   {
     "ano": 2025,
+    "nome": "MANOELA FALCON GALLOTTI",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-30",
+    "fim": "2025-10-30",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MARCIO ROBERTO DE ANDRADE",
     "cargo": "",
     "inicio": "2025-10-29",
@@ -40261,6 +40294,17 @@
   },
   {
     "ano": 2025,
+    "nome": "DANILO FELIPE VIANA MUNDURUCA",
+    "cargo": "ECONOMISTA",
+    "inicio": "2025-11-19",
+    "fim": "2025-11-19",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MAYRA BORGES LEMOS",
     "cargo": "ODONTOLOGO",
     "inicio": "2025-11-11",
@@ -40327,12 +40371,34 @@
   },
   {
     "ano": 2025,
+    "nome": "FELIPPE ROCHA PRESADO MENEZES DE BARROS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-30",
+    "fim": "2025-10-30",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "ALINE DE FATIMA SOARES E SILVA",
     "cargo": "PRODUTOR CULTURAL",
     "inicio": "2025-11-13",
     "fim": "2025-11-14",
     "destino": "Poço Redondo/SE",
     "valor_diaria": 411.6,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "DANILO DE REZENDE SANTIAGO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-17",
+    "fim": "2025-11-17",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
     "valor_passagem": 0,
     "urgencia": "SIM"
   }

@@ -38567,6 +38567,17 @@
   },
   {
     "ano": 2025,
+    "nome": "ROBERTO VILAS BOAS MONTE",
+    "cargo": "PROCURADOR FEDERAL",
+    "inicio": "2025-12-01",
+    "fim": "2025-12-03",
+    "destino": "Brasília/DF",
+    "valor_diaria": 1021.15,
+    "valor_passagem": 2160.54,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MAIKON LUIZ MIRKOSKI",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-10-24",
@@ -38740,6 +38751,17 @@
     "valor_diaria": 122.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MARCO AURELIO PEREIRA BUZINARO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-26",
+    "fim": "2025-11-28",
+    "destino": "Natal/RN",
+    "valor_diaria": 813.65,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
   },
   {
     "ano": 2025,
@@ -39216,6 +39238,28 @@
   },
   {
     "ano": 2025,
+    "nome": "MARCIO ROBERTO DE ANDRADE",
+    "cargo": "",
+    "inicio": "2025-11-25",
+    "fim": "2025-11-25",
+    "destino": "Nossa Senhora da Glória/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2025-11-25",
+    "fim": "2025-11-25",
+    "destino": "Nossa Senhora da Glória/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "AGILDO PEREIRA DOS SANTOS",
     "cargo": "ADMINISTRADOR",
     "inicio": "2025-12-01",
@@ -39524,6 +39568,28 @@
   },
   {
     "ano": 2025,
+    "nome": "MARCIO ROBERTO DE ANDRADE",
+    "cargo": "",
+    "inicio": "2025-12-05",
+    "fim": "2025-12-05",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2025-12-05",
+    "fim": "2025-12-05",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "IDER DE SANTANA SANTOS",
     "cargo": "ELETRICISTA",
     "inicio": "2025-12-17",
@@ -39672,6 +39738,61 @@
     "inicio": "2025-12-12",
     "fim": "2025-12-12",
     "destino": "Japaratuba/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MONIQUE DE SA TAVARES VIARD",
+    "cargo": "JORNALISTA",
+    "inicio": "2025-12-05",
+    "fim": "2025-12-05",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "AFRAM DOMINGOS SILVA DE MENESES",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-12-15",
+    "fim": "2025-12-18",
+    "destino": "Garanhuns/PE",
+    "valor_diaria": 1373.58,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2025-12-17",
+    "fim": "2025-12-17",
+    "destino": "São Domingos/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "LUCIANA GAMA DE ANDRADE",
+    "cargo": "",
+    "inicio": "2025-12-17",
+    "fim": "2025-12-17",
+    "destino": "São Domingos/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JOSE ADILSON GONCALVES LIMA",
+    "cargo": "MOTORISTA",
+    "inicio": "2025-12-19",
+    "fim": "2025-12-19",
+    "destino": "Estância/SE",
     "valor_diaria": 114.09,
     "valor_passagem": 0,
     "urgencia": "SIM"

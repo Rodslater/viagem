@@ -39117,6 +39117,28 @@
   },
   {
     "ano": 2025,
+    "nome": "CRISTIANE SANTOS PICANCO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-12-16",
+    "fim": "2025-12-18",
+    "destino": "Maceió/AL",
+    "valor_diaria": 813.65,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
+  },
+  {
+    "ano": 2025,
+    "nome": "JORGENALDO CALAZANS DOS SANTOS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-31",
+    "fim": "2025-10-31",
+    "destino": "Laranjeiras/SE",
+    "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "JULIANO AZUMA DA COSTA",
     "cargo": "TECNOLOGO EM COOPERATIVISMO",
     "inicio": "2025-11-18",
@@ -39180,6 +39202,17 @@
     "valor_diaria": 118.48,
     "valor_passagem": 0,
     "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MIRELA CARINE SANTOS ARAUJO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-12-16",
+    "fim": "2025-12-18",
+    "destino": "Maceió/AL",
+    "valor_diaria": 813.65,
+    "valor_passagem": 0,
+    "urgencia": "NÃO"
   },
   {
     "ano": 2025,

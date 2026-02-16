@@ -33441,6 +33441,17 @@
   },
   {
     "ano": 2025,
+    "nome": "MARIO ANDRE DE FREITAS FARIAS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-04-29",
+    "fim": "2025-04-29",
+    "destino": "Lagarto/SE",
+    "valor_diaria": 158.85,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "AIDA MARIA ARAGAO DE JESUS",
     "cargo": "",
     "inicio": "2025-03-11",
@@ -33667,6 +33678,17 @@
     "fim": "2025-05-07",
     "destino": "Nossa Senhora do Socorro/SE",
     "valor_diaria": 122.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-05-08",
+    "fim": "2025-05-08",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -35326,6 +35348,17 @@
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-07-04",
     "fim": "2025-07-04",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-07-07",
+    "fim": "2025-07-07",
     "destino": "Aracaju/SE",
     "valor_diaria": 212.05,
     "valor_passagem": 0,
@@ -38314,6 +38347,17 @@
   },
   {
     "ano": 2025,
+    "nome": "JOSE APRIGIO CARNEIRO NETO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-23",
+    "fim": "2025-10-24",
+    "destino": "Itabaiana/SE",
+    "valor_diaria": 244.1,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "PAMELA SANTANA DA CRUZ",
     "cargo": "",
     "inicio": "2025-11-06",
@@ -38435,6 +38479,17 @@
   },
   {
     "ano": 2025,
+    "nome": "MARIO ANDRE DE FREITAS FARIAS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-22",
+    "fim": "2025-10-22",
+    "destino": "Poço Redondo/SE",
+    "valor_diaria": 160.78,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MARIANA EMANUELLE BARRETO DE GOIS",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-10-21",
@@ -38492,6 +38547,17 @@
     "ano": 2025,
     "nome": "MANOELA FALCON GALLOTTI",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-10-30",
+    "fim": "2025-10-30",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
     "inicio": "2025-10-30",
     "fim": "2025-10-30",
     "destino": "Aracaju/SE",
@@ -38578,6 +38644,17 @@
   },
   {
     "ano": 2025,
+    "nome": "VALDEMAR ALVES DA COSTA NETO",
+    "cargo": "ADMINISTRADOR",
+    "inicio": "2025-12-08",
+    "fim": "2025-12-11",
+    "destino": "Brasília/DF",
+    "valor_diaria": 1713.2,
+    "valor_passagem": 2941.79,
+    "urgencia": "NÃO"
+  },
+  {
+    "ano": 2025,
     "nome": "MAIKON LUIZ MIRKOSKI",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-10-24",
@@ -38617,6 +38694,17 @@
     "fim": "2025-11-06",
     "destino": "Tobias Barreto/SE",
     "valor_diaria": 182.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "ANA PAULA DOS SANTOS SILVA",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-11-05",
+    "fim": "2025-11-05",
+    "destino": "Estância/SE",
+    "valor_diaria": 122.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -38754,6 +38842,39 @@
   },
   {
     "ano": 2025,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-11-19",
+    "fim": "2025-11-19",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "CARLOS MENEZES DE SOUZA JUNIOR",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-12-01",
+    "fim": "2025-12-04",
+    "destino": "Brasília/DF",
+    "valor_diaria": 1856.42,
+    "valor_passagem": 2995,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-11",
+    "fim": "2025-11-11",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MARCO AURELIO PEREIRA BUZINARO",
     "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
     "inicio": "2025-11-26",
@@ -38793,6 +38914,17 @@
     "fim": "2025-11-14",
     "destino": "Esplanada/BA, Rio Real/BA",
     "valor_diaria": 588.96,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JOSE ADILSON GONCALVES LIMA",
+    "cargo": "MOTORISTA",
+    "inicio": "2025-11-12",
+    "fim": "2025-11-12",
+    "destino": "Lagarto/SE",
+    "valor_diaria": 116.11,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39271,6 +39403,28 @@
   },
   {
     "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-25",
+    "fim": "2025-11-25",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-27",
+    "fim": "2025-11-27",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "MARCIO ROBERTO DE ANDRADE",
     "cargo": "",
     "inicio": "2025-11-25",
@@ -39299,6 +39453,17 @@
     "fim": "2025-12-01",
     "destino": "Aracaju/SE",
     "valor_diaria": 144.55,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-26",
+    "fim": "2025-11-26",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39354,6 +39519,28 @@
     "fim": "2025-12-05",
     "destino": "Nossa Senhora do Socorro/SE",
     "valor_diaria": 92.15,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "JAIRTON MENDONCA DE JESUS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-28",
+    "fim": "2025-11-28",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 212.05,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "MANOELA FALCON GALLOTTI",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2025-11-28",
+    "fim": "2025-11-28",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 144.55,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39453,6 +39640,17 @@
     "fim": "2025-12-18",
     "destino": "Aracaju/SE",
     "valor_diaria": 235.95,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-12-03",
+    "fim": "2025-12-03",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 136.59,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39574,6 +39772,17 @@
     "fim": "2025-12-02",
     "destino": "Propriá/SE",
     "valor_diaria": 174.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-12-05",
+    "fim": "2025-12-05",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 114.09,
     "valor_passagem": 0,
     "urgencia": "SIM"
   },
@@ -39799,6 +40008,17 @@
   },
   {
     "ano": 2025,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2025-12-18",
+    "fim": "2025-12-18",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 136.59,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2025,
     "nome": "PAMELA SANTANA DA CRUZ",
     "cargo": "",
     "inicio": "2025-12-17",
@@ -39860,6 +40080,248 @@
     "fim": "2025-12-19",
     "destino": "Japaratuba/SE",
     "valor_diaria": 174.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LEANDRO TELES SANTANA",
+    "cargo": "ENGENHEIRO-AREA",
+    "inicio": "2026-01-08",
+    "fim": "2026-01-08",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "ANTONIO ALMEIDA DOS SANTOS FILHO",
+    "cargo": "TECNICO DE LABORATORIO AREA",
+    "inicio": "2026-01-08",
+    "fim": "2026-01-08",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "MATHEUS VANCINE JOSE GUIMARAES PEREIRA",
+    "cargo": "DESENHISTA-PROJETISTA",
+    "inicio": "2026-01-13",
+    "fim": "2026-01-13",
+    "destino": "Tobias Barreto/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "JOSE OSMAN DOS SANTOS",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2026-01-23",
+    "fim": "2026-01-23",
+    "destino": "Estância/SE",
+    "valor_diaria": 174.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2026-01-06",
+    "fim": "2026-01-06",
+    "destino": "Estância/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2026-01-21",
+    "fim": "2026-01-21",
+    "destino": "Estância/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2026-01-19",
+    "fim": "2026-01-19",
+    "destino": "Areia Branca/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2026-01-12",
+    "fim": "2026-01-12",
+    "destino": "Itaporanga d´Ajuda/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2026-01-08",
+    "fim": "2026-01-08",
+    "destino": "Estância/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "PAMELA SANTANA DA CRUZ",
+    "cargo": "",
+    "inicio": "2026-01-13",
+    "fim": "2026-01-13",
+    "destino": "Estância/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LUCIANA GAMA DE ANDRADE",
+    "cargo": "",
+    "inicio": "2026-01-13",
+    "fim": "2026-01-13",
+    "destino": "Estância/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LEANDRO TELES SANTANA",
+    "cargo": "ENGENHEIRO-AREA",
+    "inicio": "2026-01-22",
+    "fim": "2026-01-22",
+    "destino": "Nossa Senhora da Glória/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "MARCIO REMBRANDT DO NASCIMENTO LIMA",
+    "cargo": "ENGENHEIRO-AREA",
+    "inicio": "2026-01-22",
+    "fim": "2026-01-22",
+    "destino": "Nossa Senhora da Glória/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LEANDRO TELES SANTANA",
+    "cargo": "ENGENHEIRO-AREA",
+    "inicio": "2026-01-27",
+    "fim": "2026-01-27",
+    "destino": "Japaratuba/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2026-01-21",
+    "fim": "2026-01-21",
+    "destino": "São Cristóvão/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "MARIA DA PENHA BERNARDES SANTOS",
+    "cargo": "COZINHEIRO",
+    "inicio": "2026-01-23",
+    "fim": "2026-01-23",
+    "destino": "Estância/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "ANDREA LUCIANA DE ARAGAO RIBEIRO",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2026-01-22",
+    "fim": "2026-01-23",
+    "destino": "Pacatuba/SE",
+    "valor_diaria": 395.68,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2026-01-23",
+    "fim": "2026-01-23",
+    "destino": "Estância/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "MANOELA FALCON GALLOTTI",
+    "cargo": "PROFESSOR ENS BASICO TECN TECNOLOGICO",
+    "inicio": "2026-01-23",
+    "fim": "2026-01-23",
+    "destino": "Estância/SE",
+    "valor_diaria": 114.09,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LUCIANA GAMA DE ANDRADE",
+    "cargo": "",
+    "inicio": "2026-01-21",
+    "fim": "2026-01-21",
+    "destino": "Estância/SE, Areia Branca/SE",
+    "valor_diaria": 167.5,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "POLYANA LACERDA SANTOS",
+    "cargo": "",
+    "inicio": "2026-01-22",
+    "fim": "2026-01-23",
+    "destino": "Pacatuba/SE",
+    "valor_diaria": 395.68,
+    "valor_passagem": 0,
+    "urgencia": "SIM"
+  },
+  {
+    "ano": 2026,
+    "nome": "LUCIANO DE MELO SANTOS",
+    "cargo": "ASSISTENTE EM ADMINISTRAçãO",
+    "inicio": "2026-02-05",
+    "fim": "2026-02-05",
+    "destino": "Aracaju/SE",
+    "valor_diaria": 136.59,
     "valor_passagem": 0,
     "urgencia": "SIM"
   }
